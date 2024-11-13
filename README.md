@@ -4,7 +4,7 @@ This project provides a set of RESTful CRUD APIs for managing courses, built wit
 
 
 Features
- -> Create, Read, Update, and Delete (CRUD) operations for managing courses.
+ -> Create, Read, Update, and Delete (CRUD) operations for managing the courses.
  -> RESTful design for easy integration and scalability.
  -> PostgreSQL integration for reliable data storage.
  -> Tested using Postman for consistent API behavior.
